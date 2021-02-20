@@ -1,6 +1,6 @@
 # Portfolio
 
-## IT145 -- displaymenu
+## CS210 -- displaymenu
 
 ### Summarize the project and what problem it was solving.
 
