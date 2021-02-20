@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1596330163 source:c:\users\kyleh\google drive\bscompsci\y1t4\cs210\projects\project 2\project2cs210\investment.cpp
+	<iostream>
+	<vector>
+	<iomanip>
+	"investment.h"
+
+1596330163 c:\users\kyleh\google drive\bscompsci\y1t4\cs210\projects\project 2\project2cs210\investment.h
+	<vector>
+
+1596339403 source:c:\users\kyleh\google drive\bscompsci\y1t4\cs210\projects\project 2\project2cs210\main.cpp
+	<iostream>
+	<conio.h>
+	<stdlib.h>
+	"displaymenu.h"
+
+1596339809 source:c:\users\kyleh\google drive\bscompsci\y1t4\cs210\projects\project 2\project2cs210\displaymenu.cpp
+	<iostream>
+	<iomanip>
+	"displaymenu.h"
+
+1596339389 c:\users\kyleh\google drive\bscompsci\y1t4\cs210\projects\project 2\project2cs210\displaymenu.h
+
